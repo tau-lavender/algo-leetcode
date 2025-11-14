@@ -9,5 +9,5 @@
 ---
 # Ссылки на задачи
 **Факториал и Фибоначчи**
-- https://leetcode.com/problems/fibonacci-number/description/ - [solutions/fibonacci-number.py]
+- https://leetcode.com/problems/fibonacci-number/description/
 - https://leetcode.com/problems/climbing-stairs/description/
