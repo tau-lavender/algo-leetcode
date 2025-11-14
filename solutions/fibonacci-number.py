@@ -2,7 +2,4 @@
 
 class Solution:
     def fib(self, n: int) -> int:
-        if n in (0, 1):
-            return n
-        else:
-            return self.fib(n - 1) + self.fib(n - 2)
+        return round(((1 + 5 ** 0.5) ** n - (1 - 5 ** 0.5) ** n) / 2 ** n / 5 ** 0.5)
